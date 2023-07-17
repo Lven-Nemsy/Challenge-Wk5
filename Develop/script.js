@@ -10,13 +10,11 @@ var note = document.querySelector(".description");
 var today = dayjs();
 $('#currentDay').text(today.format('MM/DD/YYYY'));
 
-//$
     // TODO: Add a listener for click events on the save button. This code should use the id in the containing time-block as a key to save the user input in local storage. 
 
 
 var timeNow = today.format('HH');
     
-
 
 function timeTracker() {
         $(".time-block").each(function () {
@@ -35,7 +33,6 @@ function timeTracker() {
 
 timeTracker();
     console.log(timeNow);
-
 
 
 function save(event) {
