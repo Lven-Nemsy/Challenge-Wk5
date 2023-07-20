@@ -52,5 +52,8 @@ Troubleshooted with Kyle Jocoy, Chelsea Wagner & Donnie Rawlings. I've also used
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
+
+
+
 ![Alt text](<Assets/Screenshot 2023-07-19 214550.png>)
 ![Alt text](Assets/05-third-party-apis-homework-demo.gif)
